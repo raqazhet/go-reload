@@ -1,0 +1,2 @@
+it was the a a a ge of foolishness (cap, 6) (up, 6) , it an an an Was the epoch of belief, it was the epoch (cap) (up)  of incredulity, it was the season of Light, it was the season of darkness, it was the spring of hope, IT WAS THE (low, 3) winter of despair.
+$ go run . sample.txt result.txt
